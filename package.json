@@ -1,0 +1,16 @@
+{
+  "name": "@forzoom/scroll-listener",
+  "version": "0.0.7",
+  "description": "",
+  "main": "./dist/scroll-listener.cjs.js",
+  "module": "./dist/scroll-listener.esm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build/build.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^0.56.5"
+  }
+}
