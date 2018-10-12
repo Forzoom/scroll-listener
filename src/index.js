@@ -15,7 +15,7 @@ function testSupportsPassive() {
     }
     var support = false;
     try {
-        const opts = Object.defineProperty({}, 'passive', {
+        var opts = Object.defineProperty({}, 'passive', {
             get: function() {
                 support = true;
             },

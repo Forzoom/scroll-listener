@@ -1,6 +1,6 @@
 {
   "name": "@forzoom/scroll-listener",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "",
   "main": "./dist/scroll-listener.cjs.js",
   "module": "./dist/scroll-listener.esm.js",
@@ -12,5 +12,8 @@
   "license": "MIT",
   "devDependencies": {
     "rollup": "^0.56.5"
+  },
+  "dependencies": {
+    "vue": "^2.5.17"
   }
 }
