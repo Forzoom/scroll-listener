@@ -8,3 +8,7 @@
 
 1. es6语法删除
 1. 添加index.d.ts
+
+#### 0.0.9-alpha
+
+1. 将vue修改为devDependencies

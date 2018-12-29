@@ -11,9 +11,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "rollup": "^0.56.5"
-  },
-  "dependencies": {
+    "rollup": "^0.56.5",
     "vue": "^2.5.17"
-  }
+  },
+  "dependencies": {},
+  "types": "./types/index.d.ts"
 }
