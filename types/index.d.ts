@@ -1,3 +1,4 @@
-import _Vue from 'vue';
+import { PluginFunction } from 'vue';
+import { Store } from 'vuex';
 
-export declare function install(Vue: typeof _Vue): void;
+export declare const install: PluginFunction<{store: Store<any>}>;
