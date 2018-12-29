@@ -1,6 +1,6 @@
 {
   "name": "@forzoom/scroll-listener",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "",
   "main": "./dist/scroll-listener.cjs.js",
   "module": "./dist/scroll-listener.esm.js",
